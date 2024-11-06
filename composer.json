@@ -12,14 +12,14 @@
     ],
     "require": {
         "php": "^8.2",
-        "illuminate/support": "^11",
-        "illuminate/console": "^11",
-        "illuminate/process": "^11",
+        "illuminate/support": "^11.0.0",
+        "illuminate/console": "^11.0.0",
+        "illuminate/process": "^11.0.0",
         "ext-pcntl": "*",
         "joetannenbaum/chewie": "^0.1.7"
     },
     "require-dev": {
-        "illuminate/database": "^11"
+        "illuminate/database": "^11.0.0"
     },
     "autoload": {
         "psr-4": {
